@@ -1,9 +1,29 @@
 <h1 align="center">Hi 👋, I'm Ashlynn Harding</h1>
+
+
 <h3 align="center">A Junior Comunications Major with a Minor in Digital Studies at James Madison Unviersity</h3>
+
 About Me: 
 I am a Junior at JMU 
 I enjoy getting coffee and spending time with freinds 
 I work at Starbucks 
+
+
+Education: 
+I went to Highschool at Louisa County Highschool
+
+
+Skills: 
+Organized 
+Quick Learner 
+Time Management
+
+
+Extra Facts: 
+I am VP of Evnts for the American Marketing Association Club at JMU 
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashlynn-harding&label=Profile%20views&color=0e75b6&style=flat" alt="ashlynn-harding" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashlynn-harding" alt="ashlynn-harding" /></a> </p>
