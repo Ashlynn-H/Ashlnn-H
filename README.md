@@ -27,6 +27,14 @@ I am the VP of Events for the American Marketing Association Club at JMU
 
 
 
+
+
+
+
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashlynn-harding&label=Profile%20views&color=0e75b6&style=flat" alt="ashlynn-harding" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashlynn-harding" alt="ashlynn-harding" /></a> </p>
