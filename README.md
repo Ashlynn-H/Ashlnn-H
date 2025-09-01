@@ -6,7 +6,10 @@
 About Me: 
 I am a Junior at JMU 
 I enjoy getting coffee and spending time with freinds 
-I work at Starbucks 
+
+
+Work: 
+I currently work at Starbucks 
 
 
 Education: 
