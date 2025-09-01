@@ -23,7 +23,7 @@ Time Management
 
 
 Extra Facts: 
-I am VP of Evnts for the American Marketing Association Club at JMU 
+I am the VP of Events for the American Marketing Association Club at JMU 
 
 
 
